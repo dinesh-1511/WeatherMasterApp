@@ -1,20 +1,20 @@
-# WeatherMaster: "Weather App" 🌦️
+# WeatherMasterApp 🌦️
 
-**The weather companion. Explore the World, One City at a Time!**
+** One City at a Time!**
 
-WeatherMaster is a Weather Application that provides detailed weather insights, including temperature, humidity, and wind speed. Leveraging technologies such as HTML, CSS, JavaScript, Java, Servlet, JSP, and the robust OpenWeatherMap API, it delivers real-time weather data for over 500 cities worldwide.
+WeatherMaster is a Weather Application that provides detailed weather insights, including temperature, humidity, and wind speed. Leveraging technologies such as HTML, CSS, JavaScript, Java, Servlet, JSP, and the robust OpenWeatherMap API, it delivers real-time weather data for cities worldwide.
 
 ## Features
 
-- Detailed weather insights for any place
-- Real-time weather data including temperature, humidity, and wind speed
-- Explore weather conditions for over 500 cities worldwide
+- Detailed weather insights for any city
+- Real-time weather data including temperature, humidity, wind speed ans local time
+- Explore weather conditions for over cities worldwide
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript
+- JS (JavaScript)
 - Java
 - Servlet
 - JSP
@@ -30,4 +30,5 @@ To run the WeatherMaster application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ajay-70/Weather-Web-App.git
+   https://github.com/dinesh-1511/WeatherMasterApp
+ 
